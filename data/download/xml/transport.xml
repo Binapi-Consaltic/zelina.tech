@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResponseTransportationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.elinkx.cz">
+  <Status>
+    <StatusCode>DONE</StatusCode>
+    <ErrorText />
+  </Status>
+  <TransportationList>
+    <Transportation>
+      <Code>46</Code>
+      <Name>Balík          </Name>
+      <TypeCode>0</TypeCode>
+    </Transportation>
+    <Transportation>
+      <Code>47</Code>
+      <Name>Dobírka</Name>
+      <TypeCode>2</TypeCode>
+    </Transportation>
+    <Transportation>
+      <Code>96</Code>
+      <Name>DPD B2C balík</Name>
+      <TypeCode>0</TypeCode>
+    </Transportation>
+    <Transportation>
+      <Code>97</Code>
+      <Name>DPD B2C dobírka</Name>
+      <TypeCode>2</TypeCode>
+    </Transportation>
+    <Transportation>
+      <Code>105</Code>
+      <Name>ČP balík</Name>
+      <TypeCode>0</TypeCode>
+    </Transportation>
+  </TransportationList>
+</ResponseTransportationList>
