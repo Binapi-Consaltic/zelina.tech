@@ -11451,6 +11451,10 @@ table tfoot tr td{
   margin-top: 1%;
 }
 
+.app_wiew_item_description h2{
+  margin-top: 2%;
+}
+
 /* -----shopping-cart.php----- */
 
 .app_item_cart_header{
