@@ -84,7 +84,7 @@ app_shopping_cart_add($id);
     <link href="css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/lightbox.min.css">
     <script src="js/lightbox-plus-jquery.min.js"></script>
-    <title><?php $title; ?> | <?php echo $bussinessName; ?></title>
+    <title><?php echo "Detail produktu"; ?> | <?php echo $bussinessName; ?></title>
 </head>
 <body>
     <header>
