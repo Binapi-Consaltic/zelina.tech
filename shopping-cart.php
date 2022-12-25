@@ -196,9 +196,9 @@ if(isset($_POST["send_order"])){
                                 $result = mysqli_query($connection, "SELECT * FROM transport");
                                 while($row = mysqli_fetch_array($result)){
                             ?>
-                                <option value="<?php echo $row["id"]; ?>">
-                                    <span><?php echo $row["name"]; ?></span>
-                                    <span><?php echo $row["price"]; ?></span>
+                                <option value="<?php echo $row["Code"]; ?>">
+                                    <span><?php echo $row["Name"]; ?></span>
+                                    <span><?php echo $row["Price"]; ?></span>
                                 </option>
                             <?php
                                 }
