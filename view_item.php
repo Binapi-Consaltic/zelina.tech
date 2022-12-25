@@ -90,7 +90,7 @@ app_shopping_cart_add($id);
     <header>
         <?php require_once("layouts/nav-menu.php");?>
     </header>
-    <main>
+    <main class="layout">
         <section class="app_view_item_header">
             <container class="row app_item_header">
                 <div class="col-sm-6">
@@ -177,9 +177,13 @@ app_shopping_cart_add($id);
                     }
                     ?>
                     </div>
-                    <div class="col-sm-6 app_item_detail">
-                        
-                    </div>
+                    <div class="col-sm-6 app_item_detail"></div>
+            </container>
+            <container class="app_wiew_item_description layouts">
+                <h2>Popis produktu</h2>
+                <?php 
+                    echo htmlspecialchars_decode($description);
+                ?>
             </container>
         </section>
     </main>
