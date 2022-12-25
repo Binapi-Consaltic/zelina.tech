@@ -1,0 +1,635 @@
+﻿CategoryCode;CategoryName;SuperCategoryCode
+6;Paměťové karty;2
+19;Audio systémy;2
+20;Bezdrátové reproduktory;2
+22;Diktafony;2
+26;Sluchátka;2
+27;Mikrofony;2
+29;Přenosné audio;2
+129;Přepěťové ochrany;2
+141;Ostatní spotřební elektronika;2
+151;Příslušenství k hudebním přehrávačům;2
+160;Kalkulátory;2
+30;Počítačové skříně;3
+31;Zdroje;3
+32;Příslušenství ke skříním;3
+33;Základní desky;3
+34;Paměti RAM;3
+35;Procesory;3
+36;Chladiče;3
+37;Grafické karty;3
+38;Zvukové karty;3
+40;TV tunery, Střihové karty;3
+41;Pevné disky;3
+42;Optické mechaniky;3
+48;Kabely a redukce (kromě LAN);3
+138;Příslušenství pro pevné disky;3
+39;Modemy;6
+43;Klávesnice;6
+45;Reproduktory;6
+46;WEB kamery;6
+47;IO karty/zařízení, huby a čtečky;6
+50;Monitory;6
+51;Příslušenství k monitorům;6
+135;Myši;6
+136;Sety klávesnice + myš;6
+147;Grafické tablety;6
+161;Podložky pod myš;6
+179;USB Flash Disky;6
+383;Média;6
+62;Média Utrium;7
+79;Servery;7
+80;RAM k serverům;7
+81;Pevné disky k serverům;7
+82;Řadiče RAID / non-RAID;7
+83;Rackové skříně;7
+84;Příslušenství k Rackovým skříním;7
+85;Zálohovací systémy;7
+86;Zálohovací mechaniky;7
+87;Ostatní příslušenství k serverům;7
+88;Rozšíření záruky k serverům;7
+128;Záložní zdroje, EPS a příslušenství;7
+140;Příslušenství k řadičům;7
+144;Síťové karty pro servery;7
+145;Příslušenství k zálohovacím systémům;7
+146;Příslušenství k zálohovacím mechanikám;7
+148;CPU k serverům;7
+162;Servery - Intel Assembling;7
+89;Síťové karty;8
+90;Switche;8
+91;Wi-Fi antény;8
+93;Příslušenství k aktivním síťovým prvkům;8
+94;Strukturovaná kabeláž;8
+130;Servisní služby;8
+131;PDU, ATS, KVM switche;8
+132;Příslušenství k PDU, ATS, KVM switchům;8
+153;Rozšíření záruky;8
+170;IP telefonie;8
+171;Konvertory;8
+172;Tiskové servery;8
+173;Kamery;8
+174;RouterBOARD;8
+175;PoE, Powerline;8
+176;Příslušenství ke kamerám;8
+177;Wi-Fi aktivní prvky;8
+180;Datové rozvaděče;8
+181;Příslušenství k rozvaděčům;8
+182;ADSL, xDSL;8
+183;Routery a firewally;8
+230;Wi-Fi příslušenství;8
+249;Optická kabeláž;8
+252;SFP Moduly;8
+95;OS - desktopové;9
+96;OS - serverové;9
+97;Kancelářský;9
+98;Antivirový;9
+99;Grafický;9
+100;Zálohovací;9
+101;Databázový;9
+102;Komunikační;9
+103;Správa, internet;9
+104;Vývojářský;9
+105;Hry, zábava, výuka;9
+133;Ostatní;9
+75;Tisková média;10
+111;Stolní telefony;10
+112;VoIP telefony a adaptéry;10
+113;Faxy;10
+149;Ostatní příslušenství k faxům;10
+158;Příslušenství ke stolním telefonům;10
+163;Příslušenství k VoIP telefonům;10
+164;Skartovače;10
+167;Řezačky papíru;10
+168;Příslušenství k řezačkám papíru;10
+244;Děrovačky a sešívačky;10
+245;Příslušenství k děrovačkám  a sešívačkám;10
+246;Laminátory;10
+247;Laminovací fólie a kapsy;10
+248;Plánovací tabule a nástěnky;10
+276;Komunikace;10
+315;Identifikace;10
+316;Ergonomie;10
+115;Notebooky a Ultrabooky;11
+116;Příslušenství k notebookům a ultrabookům;11
+121;PC sestavy;11
+122;Příslušenství k PC;11
+123;Elektronické čtečky;11
+127;Rozšíření záruky k PC a NTB;11
+384;All-in-One;11
+388;Servisní díly k NTB a UB;11
+405;Tašky pro notebooky a ultrabooky;11
+190;Ruční čtečky kódů;16
+191;Fixní čtečky kódů;16
+192;Pokladní zásuvky;16
+193;Zákaznické displeje;16
+194;Čtečky/Zapisovačky karet a čipů;16
+195;Pokladní tiskárny;16
+196;Datové terminály;16
+197;Tiskárny čárových kódů a etiket;16
+199;Spotřební materiál a příslušenství;16
+200;Programovatelné klávesnice;16
+201;Dotykové monitory;16
+260;Pokladny;16
+378;TTR pásky;16
+379;Nálepky a RFID;16
+380;Počítačky mincí/bankovek;16
+107;Mobilní telefony;18
+189;Tablety;18
+262;Příslušenství k Mobilům a Tabletům;18
+268;Selfie tyče a stabilizátory;18
+66;Tiskárny;121
+67;Příslušenství k tiskárnám;121
+68;Multifunkce;121
+69;Příslušenství k multifunkcím;121
+74;Spotřební materiál k periferiím;121
+76;Skenery;121
+77;Příslušenství ke skenerům;121
+78;Rozšíření záruky k periferiím;121
+242;3D tiskárny;121
+243;Spotřební materiál k 3D tiskárnám;121
+2;Digitální fotoaparáty;1
+3;Digitální kamery;1
+6;Paměťové karty;1
+52;Projektory;1
+53;Příslušenství k projektorům;1
+186;Interaktivní tabule;1
+219;Digitální fotorámečky;1
+223;Komerční panely;1
+381;Příslušenství k fotoaparátům;1
+24;Herní konzole;17
+25;Herní příslušenství;17
+203;Hry pro herní konzole;17
+375;Virtuální realita;17
+376;PC hry;17
+253;Elektronika pro zdraví;25
+254;Elektronika pro domácnost;25
+255;Výrobky pro hraní a zábavu;25
+256;Multikoptéry;25
+258;Kamery;25
+259;Příslušenství;25
+264;Nositelná elektronika;25
+278;Elektrické zubní kartáčky;25
+;;59
+14;Televize;60
+15;Příjem digitálního vysílání;60
+16;Příslušenství k televizím;60
+241;Hotelové televize;60
+382;Video přehrávače a rekordéry;60
+;;61
+107;Mobilní telefony;62
+123;Elektronické čtečky;62
+189;Tablety;62
+262;Příslušenství k Mobilům a Tabletům;62
+268;Selfie tyče a stabilizátory;62
+115;Notebooky a Ultrabooky;63
+116;Příslušenství k notebookům a ultrabookům;63
+129;Přepěťové ochrany;63
+405;Tašky pro notebooky a ultrabooky;63
+19;Audio systémy;120
+20;Bezdrátové reproduktory;120
+22;Diktafony;120
+26;Sluchátka;120
+29;Přenosné audio;120
+151;Příslušenství k hudebním přehrávačům;120
+450;Elektrické grily;64
+592;Fritézy;64
+593;Sušičky ovoce;64
+594;Kuchyňské váhy;64
+595;Mlýnky a kráječe;64
+596;Domácí pekárny;64
+597;Topinkovače a sendvičovače;64
+598;Vakuové baličky;64
+599;Kuchyňské roboty;64
+600;Vychytávky do kuchyně;64
+704;Pomocníci do kuchyně;64
+713;Kuchyňské náčiní;64
+570;Kávovary;65
+571;Espressa;65
+572;Mlýnky na kávu;65
+573;Napěnovače mléka;65
+583;Rychlovarné konvice;66
+584;Výrobníky sody;66
+585;Výrobníky ledu;66
+586;Termosky;66
+765;Filtrační konvice;66
+574;Smoothie;67
+575;Tyčové mixéry;67
+576;Stolní mixéry;67
+577;Ruční šlehače;67
+578;Sekáčky potravin;67
+564;Rýžovary;68
+565;Multifunkční hrnce;68
+566;Parní hrnce;68
+567;Elektrické pánve;68
+568;Remosky;68
+569;Zavařovací hrnce;68
+579;Šnekové odšťavňovače;69
+580;Odstředivé odšťavňovače;69
+581;Odšťavňovací hrnce;69
+582;Citrusovače;69
+560;Čističky vzduchu;70
+561;Odvlhčovače;70
+562;Zvlhčovače;70
+563;Aroma difuzéry;70
+601;Klimatizace;71
+602;Stolní ventilátory;71
+603;Stojanové ventilátory;71
+604;Ostatní ventilátory;71
+605;Ochlazovače vzduchu;71
+618;Napařovací žehličky;72
+619;Žehličky s parním generátorem;72
+621;Cestovní žehličky;72
+622;Žehlící prkna;72
+623;Příslušenství k žehličkám;72
+624;Šicí stroje;72
+407;Robotické vysavače;73
+606;Akumulátorové vysavače;73
+607;Tyčové vysavače;73
+608;Příslušenství k robot. vysavačům;73
+609;Sáčkové vysavače;73
+610;Bezsáčkové vysavače;73
+611;Průmyslové vysavače;73
+612;Víceúčelové vysavače;73
+613;Vysavače do auta;73
+614;Vysavače na okna;73
+615;Příslušenství k vysavačům;73
+616;Tepovače;73
+617;Zametače;73
+587;Odstrňovače žmolků;74
+588;Sušáky na prádlo;74
+589;Mopy;74
+590;Parní čističe;74
+591;Odpadkové koše;74
+707;Čistící prostředky;74
+508;Kombinované lednice;75
+509;Lednice bez mrazáku;75
+510;Americké lednice;75
+511;Jednodvéřové lednice;75
+512;Lednice na nápoje;75
+514;Malé lednice;75
+515;Vestavné lednice;75
+516;Autochladničky;75
+517;Příslušenství k lednicím;75
+521;Truhlicové mrazáky;76
+522;Šuplíkové mrazáky;76
+523;Vestavné mrazáky;76
+524;Příslušenství k mrazákům;76
+529;Pračky s předním plněním;77
+530;Pračky s horním plněním;77
+531;Pračky se sušičkou;77
+532;Parní pračky;77
+533;Vestavné pračky;77
+534;Set Pračka a Sušička;77
+535;Minipračky;77
+536;Příslušenství k pračkám;77
+534;Set Pračka a Sušička;78
+543;Kondenzační sušičky;78
+544;Sušičky s tepelným čerpadlem;78
+545;Vestavné sušičky;78
+546;Příslušenství k sušičkám;78
+554;Horkovzdušné vestavné trouby;79
+555;Multifunkční vestavné trouby;79
+556;Příslušenství k troubám;79
+701;Mini trouby;79
+518;Volně stojící mikrovlnné trouby;80
+519;Vestavné mikrovlnné trouby;80
+520;Příslušenství k mikrovlnným troubám;80
+547;Indukční varné desky;81
+548;Sklokeramické varné desky;81
+549;Plynové desky;81
+550;Elektrické desky;81
+551;Kombinované desky;81
+552;Vařiče;81
+553;Příslušenství k varným deskám;81
+537;Elektrické sporáky;82
+538;Indukční sporáky;82
+539;Plynové sporáky;82
+540;Kombinované sporáky;82
+541;Sklokeramické sporáky;82
+542;Příslušenství ke sporákům;82
+497;Podstavné digestoře;83
+498;Výsuvné digestoře;83
+499;Komínové digestoře;83
+500;Ostrůvkové digestoře;83
+501;Vestavné digestoře;83
+502;Příslušenství pro digestoře;83
+557;Volně stojící vinotéky;84
+558;Vestavné vinotéky;84
+559;Příslušenství k vinotékám;84
+503;Chladící skříně;85
+504;Chladící vitríny;85
+505;Truhlicové mrazničky;85
+506;Výčepní zařízení;85
+507;Ostatní Gastro spotřebiče;85
+525;Volně stojící myčky;117
+526;Vestavné myčky;117
+527;Stolní myčky;117
+528;Příslušenství k myčkám;117
+270;Cyklonavigace;87
+271;Wattmetry;87
+275;Cyklocomputery;87
+625;Pánské kola;87
+627;Dětské kola;87
+628;Koloběžky;87
+629;Helmy;87
+630;Cyklodoplňky;87
+631;Komponenty na kolo;87
+639;Elektrokola;88
+640;Příslušenství k elektrokolům;88
+641;Elektrokoloběžky;88
+642;Příslušenství k elektrokoloběžkám;88
+643;Hoverboardy;88
+644;Příslušenství k hoverboardům;88
+12;Dalekohledy;89
+272;Vysílačky;89
+274;Kompasy a buzoly;89
+645;Turistické navigace;89
+646;Stany;89
+647;Spacáky;89
+648;Kempingový nábytek;89
+649;Doplňky ke kempování;89
+650;Trekové hole;89
+651;Karimatky;89
+652;Batohy;89
+759;Láhve a kelímky;89
+760;Vaření;89
+761;Světla;89
+762;Bezpečnost;89
+;;90
+632;Zahradní tampolíny;91
+633;Zahradní houpačky;91
+634;Dětské hřiště;91
+635;Nafukovací hrady;91
+636;Skluzavky;91
+637;Doplňky do vody;91
+638;Doplňky na sníh;91
+386;Hračky;92
+742;Puzzle;92
+743;Dřevěné modely;92
+744;Společenské a deskové hry;92
+745;Šlapadla a odstrkovadla;92
+746;RC modely;92
+747;Zvířátka;92
+748;Figurky;92
+749;Panenky;92
+750;Ostatní hračky;92
+751;Kuchyňky;92
+752;Plyšové hračky;92
+753;Stavebnice;92
+754;Hudební nástroje;92
+652;Batohy;93
+653;Tašky;93
+654;Kabinová zavazadla;93
+655;Kufry;93
+656;Peněženky;93
+657;Školní batohy;93
+658;Kufry na kolečkách;93
+659;Doplňky ke kufrům;93
+160;Kalkulátory;94
+657;Školní batohy;94
+734;Notesy a bloky;94
+735;Psací potřeby;94
+714;Trička;118
+715;Sportovní dresy;118
+716;Kraťasy;118
+717;Kalhoty;118
+718;Mikiny;118
+719;Svetry;118
+720;Nátělníky;118
+721;Čepice;118
+722;Bundy;118
+723;Kabáty;118
+724;Spodní prádlo;118
+725;Ponožky;118
+726;Rukavice;118
+727;Obuv;118
+728;Doplňky;118
+729;Košile;118
+730;Halenky;118
+731;Sukně;118
+732;Ostatní oblečení;118
+739;Plavky;118
+740;Dětské soupravy;118
+741;Tepláky a soupravy;118
+273;Příslušenství k výrobkům pro sport;119
+736;Halové sporty;119
+737;Venkovní sporty;119
+738;Fitness;119
+294;Dílna;29
+295;Zahrada;29
+296;Kuchyně;29
+297;Koupelna;29
+298;Topení;29
+299;Doplňky pro domácnost;29
+301;Zabezpečení;29
+320;Garáž;29
+410;Bytový textil;29
+21;Autorádia;95
+126;Navigace;95
+263;Příslušenství k Navigacím;95
+408;Autožárovky;95
+411;Alkohotestery;95
+412;Nabíječky autobaterií;95
+413;Startovací kabely;95
+414;Chladničky do auta;95
+415;Doplňky do auta;95
+416;Smart doplňky do auta;95
+417;Pneumatiky;95
+418;Zimní výbava;95
+419;Interiér;95
+420;Střešní boxy a nosiče;95
+422;Autokosmetika;95
+456;Bazény s konstrukcí;96
+457;Nafukovací bazény;96
+458;Vířivky;96
+459;Příslušenství k bazénům a vířivkám;96
+460;Solární sprchy;96
+461;Filtrace;96
+462;Infrasauny;96
+463;Příslušenství pro sauny;96
+464;Nafukovací lehátka a matrace;96
+433;Vrtačky;97
+434;Brusky;97
+435;Frézy;97
+436;Hoblíky;97
+437;Pily;97
+438;Elektrické šroubováky;97
+439;Kompresory a Svářečky;97
+440;Akuvrtačky a Šroubováky;97
+441;Horkovzdušné pistole;97
+442;Vrtací kladiva;97
+443;Sety nářadí;97
+444;Ostatní elektrické nářadí;97
+445;Příslušenství k el. nářadí;97
+446;Ruční nářadí;97
+447;Dílenské vybavení;97
+448;Stavební stroje;97
+710;Elektrocentrály;97
+711;Prodlužovací přívody;97
+712;Měřící přístroje;97
+465;Benzínové rotační sekačky;98
+466;Elektrické rotační sekačky;98
+467;Akumulátorové rotační sekačky;98
+468;Robotické sekačky;98
+469;Vřetenové sekačky;98
+470;Rotační sekačky;98
+471;Bubnové sekačky;98
+472;Zahradní traktory;98
+473;Příslušenství pro sekačky;98
+474;Křovinořezy a Vyžínače;98
+475;Příslušenství pro Křovinořezy a Vyžínače;98
+480;Elektrické radiátory;99
+481;Průtokové ohřívače;99
+482;Bojlery;99
+483;Plynové kamna;99
+484;Elektrická topidla;99
+709;Termostaty;99
+;;100
+224;Světelné zdroje;101
+302;Světla a svítilny;101
+409;Chytré osvětlení;101
+449;Plynové grily;102
+450;Elektrické grily;102
+451;Grily na uhlí a dřevo;102
+452;Přenosné grily;102
+453;Jednorázové grily;102
+454;Udírny;102
+455;Příslušenství ke grilům a udírnám;102
+491;Sety zahradního nábytku;103
+492;Stoly;103
+493;Křesla a Židle;103
+494;Lehátka;103
+495;Houpačky;103
+496;Párty stany;103
+703;Lapače hmyzu;103
+755;Příslušenství;103
+423;Vysokotlaké čističe;104
+424;Čerpadla a vodárny;104
+425;Drtiče a štěpkovače;104
+426;Řetězové pily;104
+427;Kultivátory a provzdušňovače;104
+428;Zahradní vysavače a fukary;104
+429;Nůžky na trávu a živý plot;104
+430;Příslušenství k zahradnímu nářadí;104
+431;Štípače;104
+432;Ostatní zahradní technika;104
+700;Žebříky;104
+;;105
+485;Detektory;106
+486;Zámky;106
+487;Trezory a Bezpečnostní schránky;106
+488;Domovní alarmy;106
+489;Fotopasti;106
+490;Ostatní Bezpečnostní technika;106
+708;Videotelefony a kukátka;106
+28;Budíky a hodiny;107
+277;Meteostanice a teploměry;107
+476;Doplňky pro mazlíčky;107
+477;Věšáky;107
+478;Ostatní interiérové doplňky;107
+479;Fotorámečky;107
+763;Nábytek do interiéru;122
+764;Nábytek do exteriéru;122
+768;Obojky, vodítka, postroje a náhubky;123
+774;Adresáře a známky pro psy;123
+775;Ostatní doplňky pro psy;123
+776;Pamlsky pro psy;123
+777;Boudy, pelíšky a přepravky pro psy;123
+778;Granule pro psy;123
+779;Hračky pro psy;123
+780;Kosmetika a hygiena pro psy;123
+781;Misky a barely pro psy;123
+782;Mokrá krmiva a mléka pro psy;123
+783;Oblečky pro psy;123
+769;Podestýlky pro kočky;124
+784;Pamlsky a tráva pro kočky;124
+785;Pasty pro kočky;124
+786;Boudy, pelíšky a přepravky pro kočky;124
+787;Granule pro kočky;124
+788;Škrabadla a odpočívadla pro kočky;124
+789;Hračky pro kočky;124
+790;Toalety a lopatky pro kočky;124
+791;Kosmetika a hygiena pro kočky;124
+792;Misky a barely pro kočky;124
+793;Mokrá krmiva a mléka pro kočky;124
+794;Obojky, vodítka, postroje pro kočky;124
+795;Ostatní doplňky pro kočky;124
+770;Doplňky pro hlodavce;125
+797;Hračky pro hlodavce;125
+798;Klece, přepravky pro hlodavce;125
+799;Kosmetika, čistící písky pro hlodavce;125
+800;Krmiva pro hlodavce;125
+801;Pamlsky pro hlodavce;125
+802;Pítka a misky pro hlodavce;125
+803;Podestýlky, hobliny pro hlodavce;125
+804;Postroje pro hlodavce;125
+772;Krmiva pro akvarijní rybičky;126
+810;Technika do akvárií;126
+811;Akvária a akvarijní sety;126
+812;Dekorace do akvária;126
+813;Chemie a úprava vody v akváriích;126
+814;Jezírka a příslušenství;126
+816;Písky, štěrky, břidlice, rašeliny;126
+817;Příslušenství do akvária;126
+818;Rostliny do akvárií;126
+805;Hračky pro ptáky;127
+806;Klece, krmítka pro ptáky;127
+807;Kosmetika, hygiena pro ptáky;127
+808;Krmiva pro ptáky;127
+809;Pochoutky pro ptáky;127
+819;Dekorace do terária;128
+820;Krmiva pro plazy a želvy;128
+821;Ostatní doplňky do terária;128
+822;Podestýlky do terária;128
+823;Příslušenství do terária;128
+824;Technika do terária;128
+825;Terária, želvária;128
+826;Vybavení terárií;128
+278;Elektrické zubní kartáčky;108
+660;Dětské elektrické kartáčky;108
+661;Náhradní hlavice;108
+662;Ústní sprchy;108
+663;Příslušenství ke kartáčkům;108
+664;Zubní centra;108
+665;Ostatní;108
+666;IPL epilátory;109
+667;Epilátory;109
+668;Planžetové holící strojky;110
+669;Frézkové holící strojky;110
+670;Příslušenství k holícím strojkům;110
+671;Zastřihávače vousů;110
+672;Zastřihávače vlasů;110
+673;Zastřihávače chloupků;110
+674;Příslušenství k zastřihovačům;110
+675;Digitální váhy;111
+676;Diagnostické váhy;111
+677;Chytré váhy;111
+678;Dětské chůvičky;112
+679;Potřeby pro kojení;112
+680;Ostatní kojenecé potřeby;112
+392;Péče o pleť;113
+402;Péče o zuby;113
+681;Kosmetické přístroje;113
+682;Masážní přístroje;113
+683;Manikůra a pedikůra;113
+684;Ostatní péče o tělo;113
+706;Vyhřívané dečky;113
+685;Žehličky na vlasy;114
+686;Kulmofény;114
+687;Kulmy;114
+688;Žehlící kartáče;114
+689;Krepovačky;114
+690;Natáčky;114
+702;Fény;114
+691;Pažní tlakoměry;115
+692;Zápěstní tlakoměry;115
+693;Digitální teploměry;115
+694;Bezkontaktní teploměry;115
+695;Diagnostické testy;116
+696;Glukometry;116
+697;Oxymetry;116
+698;Inhalátory;116
+699;Dioptrické pomůcky;116
+705;Ostatní zdravotnické pomůcky;116
+756;Ochranné pomůcky;116
+757;Dezinfekce;116
