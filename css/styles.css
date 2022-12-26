@@ -11599,3 +11599,58 @@ tfoot tr{
   margin-top: 2%;
   text-align: center;
 }
+
+/* mobile-navigtion */
+
+.mobile-nav-icon{
+  margin-right: 1%;
+  display: none;
+}
+
+@media screen and (max-width: 1400px) {
+  .mobile-nav-icon {
+    /* display: block; */
+  }
+
+  .navbar-nav{
+    display: block !important;
+  }
+
+  .nav-item{
+    display: block;
+    width: 100%;
+  }
+
+  .shopping-cart{
+    display: none;
+  }
+
+  .swiper{
+    width: 100%;
+  }
+}
+
+/* layouts/footer.php */
+
+footer{
+  background-color: #212529;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+
+footer h2{
+  text-align: center;
+  color: #fff !important;
+}
+.footer-ul{
+  list-style-type: none !important;
+  margin-top: 1%;
+  margin-left: 35%;
+}
+
+.footer-image{
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+}
+
