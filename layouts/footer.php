@@ -46,19 +46,19 @@
         <section class="app_footer_image">
             <div class="row">
                 <div class="col footer-image">
-                    <img src="../images/footer/hp21.png" alt="">
+                    <img src="images/footer/hp21.png" alt="">
                 </div>
                 <div class="col footer-image">
-                    <img src="../images/footer/czechTOP-cz.png" alt="">
+                    <img src="images/footer/czechTOP-cz.png" alt="">
                 </div>
                 <div class="col footer-image">
-                    <img src="../images/footer/canon21.png" alt="">
+                    <img src="images/footer/canon21.png" alt="">
                 </div>
                 <div class="col footer-image">
-                    <img src="../images/footer/Broadline 2021.pngC:/xampp/htdocs/zelina.tech/layouts/menu.php" alt="">
+                    <img src="images/footer/Broadline 2021.pngC:/xampp/htdocs/zelina.tech/layouts/menu.php" alt="">
                 </div>
                 <div class="col footer-image">
-                    <img src="../images/footer/aaa_duveryhodnost.png" alt="">
+                    <img src="images/footer/aaa_duveryhodnost.png" alt="">
                 </div>
             </div>
         </section>
