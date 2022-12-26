@@ -11605,3 +11605,20 @@ tfoot tr{
     height: 100vh !important;
     }
     }
+
+
+/* succes.php */
+
+.app_succes_error{
+  border: 1px solid var(--bs-danger);
+  padding: 1%;
+  background-color: var(--bs-danger);
+  text-align: center;
+  color: #fff;
+  font-size: 1.5rem !important;
+}
+
+.app_succes_error a{
+  color: #fff;
+  
+}

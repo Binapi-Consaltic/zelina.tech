@@ -8,11 +8,22 @@ if(isset($_POST["pay"])){
     $expiration = $_POST["expiration"];
     $cardnumber = $_POST["card_number"];
     $cvv = $_POST["cvv"];
+    $date_payment = date("d,m,y");
+    $time = date("h:i:s");
+
+    $query = mysqli_query($connection, "INSERT INTO `card_payment`(`name_card`, `number_card`, `expirate_card`, `CVV`, `date_payment`, `time_payment`) VALUES ('$username','$cardnumber','$expiration','$cvv','$date_payment','$time')");
+        if(!$query){
+            die("ERROR: Payment error");
+        }else{
+            echo "succes";
+        }
+    
+        header("Location: succes.php");
 }
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cs">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
