@@ -250,7 +250,7 @@ $sql_query = ____app_sql_query("
             </div>
         </section>
         <!-- Footer-->
-        <footer class="py-5 bg-dark">
+        <footer>
             <?php require_once("layouts/footer.php"); ?>
         </footer>
     </body>
