@@ -24,11 +24,11 @@ if(isset($_POST["select_payment"])){
 }
 
 if($payment === "Bankovní převod"){
-    header("Location: payment/transfer.php");
+    header("Location: payment/bank-transfer/transfer.php");
 }elseif($payment === "PayPal"){
     header("Location: payment/paypal/index.php");
 }elseif($payment === "Kreditní karta"){
-    header('Location: payment/cart.php');
+    header('Location: payment/cart/cart.php');
 }
 
 ?>
@@ -119,13 +119,13 @@ if($payment === "Bankovní převod"){
                                 <h6>Prosím veberte platbu:</h6>
                                 <select name="select_payment" id="select_payment" class="form-control">
                                     <?php
-                                    // $result = mysqli_query($connection, "SELECT * FROM payment_method");
-                                    // while($row = mysqli_fetch_array($result)){
+                                    $result = mysqli_query($connection, "SELECT * FROM payment_method");
+                                    while($row = mysqli_fetch_array($result)){
                                     ?>
-                                            <option value="Bankovní převod">Bankovní převod</option>
-                                        <!-- <option value="<?php //echo $row["title_payment"]; ?>"><?php //echo $row["title_payment"]; ?></option> -->
+                                        <!-- <option value="Bankovní převod">Bankovní převod</option> -->
+                                        <option value="<?php echo $row["title_payment"]; ?>"><?php echo $row["title_payment"]; ?></option>
                                     <?php
-                                    // }
+                                    }
                                     ?>
                                 </select>
                             </div>
