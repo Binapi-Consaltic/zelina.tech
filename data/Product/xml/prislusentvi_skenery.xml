@@ -1,0 +1,5101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductComplete>
+  <ProductComplete>
+    <ProId>372932</ProId>
+    <Code>413086</Code>
+    <Name>Canon FEED ROLLER FOR P-215</Name>
+    <YourPrice>357.00</YourPrice>
+    <YourPriceWithFees>357.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>357.00</DealerPrice>
+    <EndUserPrice>416.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6144B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472104393</EANCode>
+    <NameB2C>Canon FEED ROLLER FOR P-215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>podávací kolečko P-215</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>18</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>21</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>357.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-22T13:02:43.523</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_372/372932_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.013</weight>
+        <length>4.5</length>
+        <width>7</width>
+        <height>2.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>372933</ProId>
+    <Code>413087</Code>
+    <Name>Canon CASE P-150/P-215</Name>
+    <YourPrice>753.00</YourPrice>
+    <YourPriceWithFees>753.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>753.00</DealerPrice>
+    <EndUserPrice>879.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4179B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103433</EANCode>
+    <NameB2C>Canon CASE P-150/P-215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>pouzdro pro P-150/P-215</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>19</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>22</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>753.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:33:16.13</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_372/372933_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.184</weight>
+        <length>39.5</length>
+        <width>12.5</width>
+        <height>9</height>
+      </ProductLogisticData>
+      <ProductLogisticData>
+        <typ>PACK</typ>
+        <count>10</count>
+        <weight>3.1</weight>
+        <length>44.5</length>
+        <width>40.5</width>
+        <height>27.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>372934</ProId>
+    <Code>413088</Code>
+    <Name>Canon AC ADAPTER P-150/P-215</Name>
+    <YourPrice>661.00</YourPrice>
+    <YourPriceWithFees>661.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>661.00</DealerPrice>
+    <EndUserPrice>571.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6144B006</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>Canon AC ADAPTER P-150/P-215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>adaptér 220V pro skener P-150/P-215</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>20</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>23</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>661.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:32:48.233</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_372/372934_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>372939</ProId>
+    <Code>413093</Code>
+    <Name>Canon EXCHANGE ROLLER KIT DR-C125</Name>
+    <YourPrice>1062.00</YourPrice>
+    <YourPriceWithFees>1062.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1062.00</DealerPrice>
+    <EndUserPrice>1240.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM5484B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472104263</EANCode>
+    <NameB2C>Canon EXCHANGE ROLLER KIT DR-C125</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-5010C/DR-6030C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>28</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>27</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1062.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:30:56.55</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_372/372939_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.077</weight>
+        <length>11</length>
+        <width>10</width>
+        <height>7</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>398202</ProId>
+    <Code>413171</Code>
+    <Name>Canon SEPERATION PAD For P-215</Name>
+    <YourPrice>258.00</YourPrice>
+    <YourPriceWithFees>258.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>258.00</DealerPrice>
+    <EndUserPrice>301.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6144B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472104386</EANCode>
+    <NameB2C>Canon SEPERATION PAD For P-215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka pro P-150</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>21</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>36</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>258.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:32:25.17</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_398/398202_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.01</weight>
+        <length>2.5</length>
+        <width>7</width>
+        <height>5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>398204</ProId>
+    <Code>413172</Code>
+    <Name>Canon EXCHANGE ROLLER KIT DR-C130</Name>
+    <YourPrice>1062.00</YourPrice>
+    <YourPriceWithFees>1062.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1062.00</DealerPrice>
+    <EndUserPrice>1240.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6759B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472104812</EANCode>
+    <NameB2C>Canon EXCHANGE ROLLER KIT DR-C130</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-5010C/DR-6030C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>32</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>37</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1062.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:30:11.75</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_398/398204_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.09</weight>
+        <length>10.5</length>
+        <width>11</width>
+        <height>7</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>398205</ProId>
+    <Code>413173</Code>
+    <Name>Canon USB CABLE FOR P-215</Name>
+    <YourPrice>396.00</YourPrice>
+    <YourPriceWithFees>396.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>396.00</DealerPrice>
+    <EndUserPrice>463.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6144B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>Canon USB CABLE FOR P-215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-5010C/DR-6030C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>22</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>38</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>396.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:31:57.85</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_398/398205_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>420583</ProId>
+    <Code>413315</Code>
+    <Name>Canon Separation Pad For P-208</Name>
+    <YourPrice>198.00</YourPrice>
+    <YourPriceWithFees>198.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>198.00</DealerPrice>
+    <EndUserPrice>231.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM8028B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>Canon Separation Pad For P-208</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka do podávání P-208</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>14</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>43</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>8028B001AA</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>198.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:34:26.26</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_420/420583_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>420584</ProId>
+    <Code>413316</Code>
+    <Name>Canon Carrying Case for P-208</Name>
+    <YourPrice>594.00</YourPrice>
+    <YourPriceWithFees>594.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>594.00</DealerPrice>
+    <EndUserPrice>694.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM8028B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84433100</RateOfDutyCode>
+    <EANCode>4528472105123</EANCode>
+    <NameB2C>Canon Carrying Case for P-208</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>pouzdro pro P-208</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>15</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>44</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>8028B002AA</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>594.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:34:03.153</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_420/420584_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.2</weight>
+        <length>38</length>
+        <width>8.5</width>
+        <height>8.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>420585</ProId>
+    <Code>413317</Code>
+    <Name>Canon WiFi unit P150/P215</Name>
+    <YourPrice>3396.00</YourPrice>
+    <YourPriceWithFees>3396.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>3396.00</DealerPrice>
+    <EndUserPrice>3639.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6910B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>Canon WiFi unit P150/P215</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>bateriový WiFi router/access point pro skenery P150/P215</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>16</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>45</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>6910B003AA</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>3396.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:33:43.28</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_420/420585_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>558535</ProId>
+    <Code>413776</Code>
+    <Name>Canon EXCHANGE ROLLER KIT DR-F120</Name>
+    <YourPrice>1062.00</YourPrice>
+    <YourPriceWithFees>1062.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1062.00</DealerPrice>
+    <EndUserPrice>1240.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM9934B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472106342</EANCode>
+    <NameB2C>Canon EXCHANGE ROLLER KIT DR-F120</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>dokumentový skener s vestavěným WiFi modulem</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>25</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>9934B001</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1062.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-22T13:02:07.483</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_558/558535_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.132</weight>
+        <length>32</length>
+        <width>8</width>
+        <height>5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>558536</ProId>
+    <Code>413777</Code>
+    <Name>Canon Easy Service Plan 3 year exchange service - personal workgroup scanners</Name>
+    <YourPrice>1300.00</YourPrice>
+    <YourPriceWithFees>1300.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1300.00</DealerPrice>
+    <EndUserPrice>1518.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM7950A530</PartNumber>
+    <OnStock>true</OnStock>
+    <OnStockText>3,00</OnStockText>
+    <Status>Výprodej</Status>
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>49119900</RateOfDutyCode>
+    <EANCode>4960999793344</EANCode>
+    <NameB2C>Canon Easy Service Plan 3 year exchange service - personal workgroup scanners</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>3letý servisní balíček prodloužené záruky - výměna vadného zařízení za nové nebo repasovné zařízení</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>2</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>33</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020266</IndexSort2>
+    <IndexCode2>11136</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>7950A530</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1300.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>3.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:29:51.433</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>false</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_558/558536_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.325</weight>
+        <length>22.5</length>
+        <width>15</width>
+        <height>2</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563312</ProId>
+    <Code>413796</Code>
+    <Name>CAN EXCHANGE ROLLER KIT DR-C240/M160</Name>
+    <YourPrice>966.00</YourPrice>
+    <YourPriceWithFees>966.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>966.00</DealerPrice>
+    <EndUserPrice>1128.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM0697C003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472106984</EANCode>
+    <NameB2C>CAN EXCHANGE ROLLER KIT DR-C240/M160</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-C240</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>69</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>72</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>966.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:48:31.97</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563312_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.165</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563313</ProId>
+    <Code>413797</Code>
+    <Name>CAN Passport Carrier Sheet for DR-C240</Name>
+    <YourPrice>451.00</YourPrice>
+    <YourPriceWithFees>451.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>451.00</DealerPrice>
+    <EndUserPrice>526.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM0697C002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN Passport Carrier Sheet for DR-C240</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>ochranné pouzdro na skenování pasů</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>70</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>73</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>451.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:29:01.67</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563313_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563320</ProId>
+    <Code>413804</Code>
+    <Name>CAN EXCHANGE ROLLER KIT DR-M140</Name>
+    <YourPrice>966.00</YourPrice>
+    <YourPriceWithFees>966.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>966.00</DealerPrice>
+    <EndUserPrice>1128.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM5972B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472104331</EANCode>
+    <NameB2C>CAN EXCHANGE ROLLER KIT DR-M140</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sdad podávacích koleček DR-M140</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>74</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>74</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>966.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:48:41.017</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563320_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.121</weight>
+        <length>12</length>
+        <width>4</width>
+        <height>8.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563328</ProId>
+    <Code>413812</Code>
+    <Name>CAN FEED ROLLER DR4010C/6010C</Name>
+    <YourPrice>1415.00</YourPrice>
+    <YourPriceWithFees>1415.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1415.00</DealerPrice>
+    <EndUserPrice>1654.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4082B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103785</EANCode>
+    <NameB2C>CAN FEED ROLLER DR4010C/6010C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček DR-4010C/6010C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>77</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>75</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1415.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:50:22.267</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563328_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.207</weight>
+        <length>13.5</length>
+        <width>12</width>
+        <height>10</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563329</ProId>
+    <Code>413813</Code>
+    <Name>CAN BARCODE MODULE III</Name>
+    <YourPrice>1634.00</YourPrice>
+    <YourPriceWithFees>1639.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1634.00</DealerPrice>
+    <EndUserPrice>1908.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM1922B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN BARCODE MODULE III</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>modul čárového kódu rozšiřující možnosti skeneru o separaci a indexaci pomocí čárových kódů - software</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>75</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>76</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1634.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:27:51.523</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563329_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563343</ProId>
+    <Code>413827</Code>
+    <Name>CAN EXCHANGE ROLLER KIT DRM1060</Name>
+    <YourPrice>1415.00</YourPrice>
+    <YourPriceWithFees>1415.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1415.00</DealerPrice>
+    <EndUserPrice>1654.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM9691B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT DRM1060</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-5010C/DR-6030C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>83</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>78</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1415.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:48:46.313</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563343_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563352</ProId>
+    <Code>413836</Code>
+    <Name>CAN EXCHANGE ROLLER KIT 5010C/6030C</Name>
+    <YourPrice>1438.00</YourPrice>
+    <YourPriceWithFees>1438.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1438.00</DealerPrice>
+    <EndUserPrice>1654.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM0434B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472101163</EANCode>
+    <NameB2C>CAN EXCHANGE ROLLER KIT 5010C/6030C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-5010C/DR-6030C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>86</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>79</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1438.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:47:53.187</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563352_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.17</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7.2</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563363</ProId>
+    <Code>413847</Code>
+    <Name>CAN Separation Pad for G1100/1130</Name>
+    <YourPrice>812.00</YourPrice>
+    <YourPriceWithFees>812.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>812.00</DealerPrice>
+    <EndUserPrice>949.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM8262B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN Separation Pad for G1100/1130</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka do podávání DR-G1100/1130</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>90</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>81</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>812.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:27:22.457</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563363_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563364</ProId>
+    <Code>413848</Code>
+    <Name>CAN Patch code decoder for DR-G1 series</Name>
+    <YourPrice>8635.00</YourPrice>
+    <YourPriceWithFees>8640.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>8635.00</DealerPrice>
+    <EndUserPrice>10095.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM8262B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN Patch code decoder for DR-G1 series</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>modul umožňující dávkové skenování pomocí oddělovacích listů - HW komponent</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>91</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>82</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>8635.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:27:00.013</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563364_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563367</ProId>
+    <Code>413851</Code>
+    <Name>CAN IMPRINTER DR60/75/9050C</Name>
+    <YourPrice>7444.00</YourPrice>
+    <YourPriceWithFees>7449.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>7444.00</DealerPrice>
+    <EndUserPrice>8703.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4009B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN IMPRINTER DR60/75/9050C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Modul (Print, Scan, Fax)</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>tisková jednotka umožňují dotisk vlastní značky do skenovaného dokumentu na výstupu ze skeneru</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>92</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>83</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>7444.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:26:37.7</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563367_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>8466</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563377</ProId>
+    <Code>413861</Code>
+    <Name>CAN EXCHANGE ROLLER KIT DR-X10C</Name>
+    <YourPrice>2680.00</YourPrice>
+    <YourPriceWithFees>2680.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2680.00</DealerPrice>
+    <EndUserPrice>3133.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT DR-X10C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-X10C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>99</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>84</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2680.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:48:58.72</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563377_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563378</ProId>
+    <Code>413862</Code>
+    <Name>CAN ROLLER CLEAN. SH. DR-X10C</Name>
+    <YourPrice>1266.00</YourPrice>
+    <YourPriceWithFees>1271.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1266.00</DealerPrice>
+    <EndUserPrice>1480.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN ROLLER CLEAN. SH. DR-X10C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>čistící list na podávací kolečka pro DR-X10C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>100</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>85</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1266.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:50:44.803</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563378_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563380</ProId>
+    <Code>413864</Code>
+    <Name>CAN BARCODE MODULE 2D</Name>
+    <YourPrice>2724.00</YourPrice>
+    <YourPriceWithFees>2729.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2724.00</DealerPrice>
+    <EndUserPrice>3181.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM1922B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN BARCODE MODULE 2D</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>modul čárového kódu rozšiřující možnosti skeneru o separaci a indexaci pomocí čárových kódů - software</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>133</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>86</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2724.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:52:48.13</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563380_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563381</ProId>
+    <Code>413865</Code>
+    <Name>CAN PRE IMPRINTER for DR-X10C</Name>
+    <YourPrice>11911.00</YourPrice>
+    <YourPriceWithFees>11916.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>11911.00</DealerPrice>
+    <EndUserPrice>13925.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN PRE IMPRINTER for DR-X10C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Modul (Print, Scan, Fax)</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>tisková jednotka umožňují dotisk vlastní značky do skenovaného dokumentu na vstupu do skeneru</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>101</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>87</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>11911.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:25:59.933</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563381_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>8466</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563382</ProId>
+    <Code>413866</Code>
+    <Name>CAN POST IMPRINTER for DR-X10C</Name>
+    <YourPrice>11911.00</YourPrice>
+    <YourPriceWithFees>11916.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>11911.00</DealerPrice>
+    <EndUserPrice>13925.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B004</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN POST IMPRINTER for DR-X10C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Modul (Print, Scan, Fax)</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>tisková jednotka umožňují dotisk vlastní značky do skenovaného dokumentu na výstupu ze skeneru</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>102</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>88</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>11911.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:24:57.52</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563382_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>8466</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563386</ProId>
+    <Code>413870</Code>
+    <Name>CAN PATCH CODE DECODER for DR-X10C</Name>
+    <YourPrice>8635.00</YourPrice>
+    <YourPriceWithFees>8640.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>8635.00</DealerPrice>
+    <EndUserPrice>10095.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B005</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN PATCH CODE DECODER for DR-X10C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>modul umožňující dávkové skenování pomocí oddělovacích listů - HW komponent</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>103</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>89</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>8635.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:24:28.217</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563386_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563387</ProId>
+    <Code>413871</Code>
+    <Name>CAN KOFAX CGA BOARD</Name>
+    <YourPrice>29777.00</YourPrice>
+    <YourPriceWithFees>29782.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>29777.00</DealerPrice>
+    <EndUserPrice>34811.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM2418B006</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN KOFAX CGA BOARD</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>HW grafická karta pro podporu Kofax aplikací</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>104</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>90</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>29777.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:23:35.707</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563387_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563388</ProId>
+    <Code>413872</Code>
+    <Name>CAN FLATBED SCANNER UNIT 101</Name>
+    <YourPrice>7918.00</YourPrice>
+    <YourPriceWithFees>7923.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>7918.00</DealerPrice>
+    <EndUserPrice>9257.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4101B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103266</EANCode>
+    <NameB2C>CAN FLATBED SCANNER UNIT 101</NameB2C>
+    <DescriptionShort>Typ příslušenství:Modul (Print, Scan, Fax)</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>A4 volitelné ploché lože pro DR-skenery</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>71</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>91</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>7918.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:28:32.327</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563388_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>8466</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>6.17</weight>
+        <length>43</length>
+        <width>62</width>
+        <height>19.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563389</ProId>
+    <Code>413873</Code>
+    <Name>CAN FLATBED SCANNER UNIT 201</Name>
+    <YourPrice>19686.00</YourPrice>
+    <YourPriceWithFees>19691.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>5.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>19686.00</DealerPrice>
+    <EndUserPrice>22987.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6240B003</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472105024</EANCode>
+    <NameB2C>CAN FLATBED SCANNER UNIT 201</NameB2C>
+    <DescriptionShort>Typ příslušenství:Modul (Print, Scan, Fax)</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>A3 volitelné ploché lože pro DR-skenery</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>72</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>92</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>19686.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T15:28:08.353</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563389_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>8466</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>11.32</weight>
+        <length>68</length>
+        <width>59.5</width>
+        <height>25</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563394</ProId>
+    <Code>413878</Code>
+    <Name>CAN EXCHANGE ROLLER KIT SF330</Name>
+    <YourPrice>1056.00</YourPrice>
+    <YourPriceWithFees>1056.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1056.00</DealerPrice>
+    <EndUserPrice>1234.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4593B005</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472105765</EANCode>
+    <NameB2C>CAN EXCHANGE ROLLER KIT SF330</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-2x10C/SF220/SF300</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>107</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>93</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1056.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:04.71</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563394_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.128</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563395</ProId>
+    <Code>413879</Code>
+    <Name>CAN EXCHANGE ROLLER KIT DR2X10/SF220/SF300</Name>
+    <YourPrice>1056.00</YourPrice>
+    <YourPriceWithFees>1056.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1056.00</DealerPrice>
+    <EndUserPrice>1234.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4593B004</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT DR2X10/SF220/SF300</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-2x10C/SF220/SF300</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>108</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>94</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1056.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:11.037</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563395_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563403</ProId>
+    <Code>413887</Code>
+    <Name>CAN EXCHANGE ROLLER KIT 3080C</Name>
+    <YourPrice>2850.00</YourPrice>
+    <YourPriceWithFees>2850.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2850.00</DealerPrice>
+    <EndUserPrice>3332.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6915A001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT 3080C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-3080C pro 500K skenů</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>116</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>97</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2850.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:25.723</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563403_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563404</ProId>
+    <Code>413888</Code>
+    <Name>CAN ROLLER KIT 10000K</Name>
+    <YourPrice>1672.00</YourPrice>
+    <YourPriceWithFees>1672.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1672.00</DealerPrice>
+    <EndUserPrice>1954.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM6915A002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN ROLLER KIT 10000K</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-3080C pro 1000K skenů</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>117</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>98</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1672.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:02.593</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563404_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563406</ProId>
+    <Code>413890</Code>
+    <Name>CAN EXCHANGE ROLLER KIT 2050C</Name>
+    <YourPrice>1056.00</YourPrice>
+    <YourPriceWithFees>1056.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1056.00</DealerPrice>
+    <EndUserPrice>1234.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM7982A001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT 2050C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-2050C/2080C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>119</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>100</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1056.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:31.873</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563406_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563407</ProId>
+    <Code>413891</Code>
+    <Name>CAN EXCHANGE ROLLER KIT 9080C</Name>
+    <YourPrice>2382.00</YourPrice>
+    <YourPriceWithFees>2382.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2382.00</DealerPrice>
+    <EndUserPrice>2785.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM8927A004</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472100821</EANCode>
+    <NameB2C>CAN EXCHANGE ROLLER KIT 9080C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-60/9080C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>120</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>101</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2382.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:38.733</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563407_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.163</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7.1</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563408</ProId>
+    <Code>413892</Code>
+    <Name>CAN EXCHANGE ROLLER KIT 7080C</Name>
+    <YourPrice>2382.00</YourPrice>
+    <YourPriceWithFees>2382.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2382.00</DealerPrice>
+    <EndUserPrice>2785.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM9664A002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER KIT 7080C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-7080C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>121</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>102</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2382.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:47.42</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563408_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563412</ProId>
+    <Code>413896</Code>
+    <Name>CAN FEED ROLLER UNIT DR1210C</Name>
+    <YourPrice>1320.00</YourPrice>
+    <YourPriceWithFees>1320.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1320.00</DealerPrice>
+    <EndUserPrice>1543.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM1541B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN FEED ROLLER UNIT DR1210C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-1210C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>122</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>106</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1320.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:13.287</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563412_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563413</ProId>
+    <Code>413897</Code>
+    <Name>CAN SEPERATION PAD DR1210C</Name>
+    <YourPrice>244.00</YourPrice>
+    <YourPriceWithFees>244.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>244.00</DealerPrice>
+    <EndUserPrice>285.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM1541B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN SEPERATION PAD DR1210C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka pro DR-1210C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>123</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>107</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>244.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:56:53.99</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563413_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563414</ProId>
+    <Code>413898</Code>
+    <Name>CAN Separation Pad for P-150</Name>
+    <YourPrice>243.00</YourPrice>
+    <YourPriceWithFees>243.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>243.00</DealerPrice>
+    <EndUserPrice>285.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4179B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>413898</EANCode>
+    <NameB2C>CAN Separation Pad for P-150</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka do podávání P-150</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>124</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>108</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>243.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:56:31.323</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563414_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.01</weight>
+        <length>7</length>
+        <width>5</width>
+        <height>2.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563415</ProId>
+    <Code>413899</Code>
+    <Name>CAN FEED ROLLER P-150</Name>
+    <YourPrice>337.00</YourPrice>
+    <YourPriceWithFees>337.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>337.00</DealerPrice>
+    <EndUserPrice>394.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4179B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN FEED ROLLER P-150</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>podávací kolečko P-150</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>125</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>109</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>337.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:23.177</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563415_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563416</ProId>
+    <Code>413900</Code>
+    <Name>CAN EX ROLLER KIT DR60/75/9050C</Name>
+    <YourPrice>2166.00</YourPrice>
+    <YourPriceWithFees>2166.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2166.00</DealerPrice>
+    <EndUserPrice>2532.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4009B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103037</EANCode>
+    <NameB2C>CAN EX ROLLER KIT DR60/75/9050C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-60/75/9050C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>126</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>110</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2166.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:28.923</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563416_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.163</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7.2</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563417</ProId>
+    <Code>413901</Code>
+    <Name>CAN EXCHANGE ROLLER DR7090C</Name>
+    <YourPrice>2382.00</YourPrice>
+    <YourPriceWithFees>2382.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2382.00</DealerPrice>
+    <EndUserPrice>2785.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM3504B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EXCHANGE ROLLER DR7090C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-7090C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>127</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>111</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2382.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:49:53.597</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563417_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563418</ProId>
+    <Code>413902</Code>
+    <Name>CAN EX ROLLER KIT DR 3010C</Name>
+    <YourPrice>1056.00</YourPrice>
+    <YourPriceWithFees>1056.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1056.00</DealerPrice>
+    <EndUserPrice>1234.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM3335B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN EX ROLLER KIT DR 3010C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček DR-3010C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>128</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>112</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1056.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:37.36</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563418_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563420</ProId>
+    <Code>413904</Code>
+    <Name>CAN INK RED F.IMPRINTER 50F/B</Name>
+    <YourPrice>1057.00</YourPrice>
+    <YourPriceWithFees>1057.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1057.00</DealerPrice>
+    <EndUserPrice>1236.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM0836B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>CAN INK RED F.IMPRINTER 50F/B</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>červený inkoust do imprinteru na DR-5010C</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>130</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>114</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1057.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:56:01.293</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563420_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563421</ProId>
+    <Code>413905</Code>
+    <Name>CAN FEED ROLLER UNIT DR2020U</Name>
+    <YourPrice>1348.00</YourPrice>
+    <YourPriceWithFees>1348.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>1348.00</DealerPrice>
+    <EndUserPrice>1576.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4048B001</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103082</EANCode>
+    <NameB2C>CAN FEED ROLLER UNIT DR2020U</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-2020U</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>131</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>115</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1348.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:51:42.917</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563421_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.142</weight>
+        <length>31</length>
+        <width>7.5</width>
+        <height>3</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>563422</ProId>
+    <Code>413906</Code>
+    <Name>CAN SEPERATION PAD DR2020U</Name>
+    <YourPrice>243.00</YourPrice>
+    <YourPriceWithFees>243.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>243.00</DealerPrice>
+    <EndUserPrice>285.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM4048B002</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472103099</EANCode>
+    <NameB2C>CAN SEPERATION PAD DR2020U</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>separační podložka pro P-150</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>132</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>116</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>243.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-06-19T14:54:53.5</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_563/563422_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>611643</ProId>
+    <Code>1091138</Code>
+    <Name>EPSON Flatbed Scanner Dock</Name>
+    <YourPrice>2038.00</YourPrice>
+    <YourPriceWithFees>2038.00</YourPriceWithFees>
+    <CommodityCode>EPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>EPSON</CommodityName>
+    <DealerPrice>2135.00</DealerPrice>
+    <EndUserPrice>2426.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>B12B819011</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Na objednávku</Status>
+    <ProducerName>Epson</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>8715946552026</EANCode>
+    <NameB2C>EPSON Flatbed Scanner Dock</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>22</InfoCode>
+    <IndexSort1>0001003400090004</IndexSort1>
+    <IndexCode1>1641</IndexCode1>
+    <IndexOrder1>79</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>B4</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2135.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2017-09-08T11:56:29.9</ImgLastChanged>
+    <ProducerCode>EPS</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_611/611643_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1430896</ProId>
+    <Code>543474</Code>
+    <Name>CAN FEED ROLLER DR-9080C</Name>
+    <YourPrice>2547.00</YourPrice>
+    <YourPriceWithFees>2547.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2547.00</DealerPrice>
+    <EndUserPrice>4852.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>8927a004</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472100821</EANCode>
+    <NameB2C>CAN FEED ROLLER DR-9080C</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>2</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020260</IndexSort2>
+    <IndexCode2>10562</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2547.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2018-12-03T11:15:44.91</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1430/1430896_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.164</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>7</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1454272</ProId>
+    <Code>543506</Code>
+    <Name>CAN BIG EX ROLLER KIT G1100/1130</Name>
+    <YourPrice>2305.00</YourPrice>
+    <YourPriceWithFees>2305.00</YourPriceWithFees>
+    <CommodityCode>CAN</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>CANON PRINTERS</CommodityName>
+    <DealerPrice>2305.00</DealerPrice>
+    <EndUserPrice>2911.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>EM3601C002AA</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>Canon</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>4528472108612</EANCode>
+    <NameB2C>CAN BIG EX ROLLER KIT G1100/1130</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>sada podávacích koleček pro DR-G1100/1130</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001001900040012</IndexSort1>
+    <IndexCode1>5604</IndexCode1>
+    <IndexOrder1>134</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2 />
+    <IndexCode2>-1</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2305.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>CAN</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.176</weight>
+        <length>16</length>
+        <width>13</width>
+        <height>6.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1516444</ProId>
+    <Code>719577</Code>
+    <Name>HP ScanJet 2000s2/3000s4/4000snw1 Roller Kit (100,000 pages)</Name>
+    <YourPrice>1768.00</YourPrice>
+    <YourPriceWithFees>1768.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1768.00</DealerPrice>
+    <EndUserPrice>2957.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>7QH79A</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP ScanJet 2000s2/3000s4/4000snw1 Roller Kit (100,000 pages)</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1768.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2020-05-11T17:37:52.35</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1516/1516444_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1516445</ProId>
+    <Code>719578</Code>
+    <Name>HP ScanJet Pro 2500 f1 Roller Replacement Kit</Name>
+    <YourPrice>1986.00</YourPrice>
+    <YourPriceWithFees>1986.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1986.00</DealerPrice>
+    <EndUserPrice>3322.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2748A#101</PartNumber>
+    <OnStock>true</OnStock>
+    <OnStockText>2,00</OnStockText>
+    <Status />
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>719578</EANCode>
+    <NameB2C>HP ScanJet Pro 2500 f1 Roller Replacement Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1986.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>2.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.18</weight>
+        <length>23</length>
+        <width>15</width>
+        <height>5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1516446</ProId>
+    <Code>719579</Code>
+    <Name>HP ScanJet Pro 3500 f1/4500 fn1 ADF Kit</Name>
+    <YourPrice>1986.00</YourPrice>
+    <YourPriceWithFees>1986.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1986.00</DealerPrice>
+    <EndUserPrice>3322.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2742A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>888793173497</EANCode>
+    <NameB2C>HP ScanJet Pro 3500 f1/4500 fn1 ADF Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>2023-01-06T00:00:00</DateAvailible>
+    <DealerPrice1>1986.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2020-05-11T17:53:36.43</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1516/1516446_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.175</weight>
+        <length>23</length>
+        <width>14</width>
+        <height>4.5</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1534981</ProId>
+    <Code>719641</Code>
+    <Name>HP ScanJet 5000 s4/7000 s3 Roller Replacement Kit</Name>
+    <YourPrice>2005.00</YourPrice>
+    <YourPriceWithFees>2005.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>2005.00</DealerPrice>
+    <EndUserPrice>3354.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2756A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status />
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode>889899010501</EANCode>
+    <NameB2C>HP ScanJet 5000 s4/7000 s3 Roller Replacement Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>0</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2005.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2020-10-15T14:11:02.703</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1534/1534981_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0.148</weight>
+        <length>22</length>
+        <width>13</width>
+        <height>4</height>
+      </ProductLogisticData>
+      <ProductLogisticData>
+        <typ>PACK</typ>
+        <count>10</count>
+        <weight>1.5</weight>
+        <length>43</length>
+        <width>24</width>
+        <height>16</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1544445</ProId>
+    <Code>1092387</Code>
+    <Name>EPSON separation roller pro DS-30000 a DS-32000</Name>
+    <YourPrice>1352.80</YourPrice>
+    <YourPriceWithFees>1365.00</YourPriceWithFees>
+    <CommodityCode>EPS</CommodityCode>
+    <GarbageFee>12.20</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>EPSON</CommodityName>
+    <DealerPrice>1417.00</DealerPrice>
+    <EndUserPrice>1431.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>B12B819631</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Epson</ProducerName>
+    <RateOfDutyCode>84716070</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>EPSON separation roller pro DS-30000 a DS-32000</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva: Vstupné príslušenstvo.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001003400090006</IndexSort1>
+    <IndexCode1>1643</IndexCode1>
+    <IndexOrder1>5</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020090</IndexSort2>
+    <IndexCode2>4189</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>BM</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1417.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2021-01-05T10:45:53.287</ImgLastChanged>
+    <ProducerCode>EPS</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1544/1544445_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1544446</ProId>
+    <Code>1092388</Code>
+    <Name>EPSON pick-up roller pro DS-30000 a DS-32000</Name>
+    <YourPrice>1352.80</YourPrice>
+    <YourPriceWithFees>1365.00</YourPriceWithFees>
+    <CommodityCode>EPS</CommodityCode>
+    <GarbageFee>12.20</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>EPSON</CommodityName>
+    <DealerPrice>1417.00</DealerPrice>
+    <EndUserPrice>1431.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>B12B819611</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Epson</ProducerName>
+    <RateOfDutyCode>84716070</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>EPSON pick-up roller pro DS-30000 a DS-32000</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>EPSON pick-up roller pro DS-30000 a DS-32000</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001003400090006</IndexSort1>
+    <IndexCode1>1643</IndexCode1>
+    <IndexOrder1>6</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020090</IndexSort2>
+    <IndexCode2>4189</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>BM</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1417.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2021-01-05T10:49:12.397</ImgLastChanged>
+    <ProducerCode>EPS</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1544/1544446_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1544448</ProId>
+    <Code>1092389</Code>
+    <Name>EPSON passport carrier sheet pro DS-30000 a DS-32000</Name>
+    <YourPrice>893.80</YourPrice>
+    <YourPriceWithFees>906.00</YourPriceWithFees>
+    <CommodityCode>EPS</CommodityCode>
+    <GarbageFee>12.20</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>EPSON</CommodityName>
+    <DealerPrice>937.00</DealerPrice>
+    <EndUserPrice>946.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>B12B819651</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Epson</ProducerName>
+    <RateOfDutyCode>84716070</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>EPSON passport carrier sheet pro DS-30000 a DS-32000</NameB2C>
+    <DescriptionShort>Typ příslušenství:Vstupní příslušenství</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>EPSON passport carrier sheet pro DS-30000 a DS-32000</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001003400090006</IndexSort1>
+    <IndexCode1>1643</IndexCode1>
+    <IndexOrder1>7</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020090</IndexSort2>
+    <IndexCode2>4189</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>BM</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>937.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2021-01-05T10:51:37.583</ImgLastChanged>
+    <ProducerCode>EPS</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1544/1544448_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>586</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1606497</ProId>
+    <Code>556784</Code>
+    <Name>HP SJ2000s2/3000s4/4000snw1 Roller Replacement Kit</Name>
+    <YourPrice>1768.00</YourPrice>
+    <YourPriceWithFees>1768.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1768.00</DealerPrice>
+    <EndUserPrice>2957.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>7QH79A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP SJ2000s2/3000s4/4000snw1 Roller Replacement Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1768.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1606498</ProId>
+    <Code>556785</Code>
+    <Name>HP Scanjet Ent Flow 5000 s2 Roller Kit</Name>
+    <YourPrice>1850.00</YourPrice>
+    <YourPriceWithFees>1850.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1850.00</DealerPrice>
+    <EndUserPrice>3094.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2740A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP Scanjet Ent Flow 5000 s2 Roller Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1850.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1606500</ProId>
+    <Code>556786</Code>
+    <Name>HP SJ Pro 3000 s3 Roller Rplcmnt Kit</Name>
+    <YourPrice>1625.00</YourPrice>
+    <YourPriceWithFees>1625.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1625.00</DealerPrice>
+    <EndUserPrice>2718.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2754A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP SJ Pro 3000 s3 Roller Rplcmnt Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1625.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1606501</ProId>
+    <Code>556787</Code>
+    <Name>HP ScanJetPro2000S1 Shtfed Rlr Rplnt Kit</Name>
+    <YourPrice>1335.00</YourPrice>
+    <YourPriceWithFees>1335.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1335.00</DealerPrice>
+    <EndUserPrice>2234.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>L2760A#101</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP ScanJetPro2000S1 Shtfed Rlr Rplnt Kit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1335.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1615446</ProId>
+    <Code>556808</Code>
+    <Name>HP ScanJet B Roller Unit</Name>
+    <YourPrice>1000.00</YourPrice>
+    <YourPriceWithFees>1000.00</YourPriceWithFees>
+    <CommodityCode>HPS</CommodityCode>
+    <GarbageFee>0.00</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>12 Měsíc(ů)</Warranty>
+    <CommodityName>HP IPG SUPPLIES</CommodityName>
+    <DealerPrice>1000.00</DealerPrice>
+    <EndUserPrice>1672.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>618J9A</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>HP Inc.</ProducerName>
+    <RateOfDutyCode>84439990</RateOfDutyCode>
+    <EANCode />
+    <NameB2C>HP ScanJet B Roller Unit</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Typ príslušenstva:Iné.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>0001005000070001</IndexSort1>
+    <IndexCode1>1793</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2>00020112</IndexSort2>
+    <IndexCode2>4211</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>12</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2>1</PartNumber2>
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1000.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>0</ImgCount>
+    <ImgLastChanged>0001-01-01T00:00:00</ImgLastChanged>
+    <ProducerCode>HPC</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList />
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1642995</ProId>
+    <Code>429379</Code>
+    <Name>Reflecta LightPad L130 LED prosvětlovací panel</Name>
+    <YourPrice>1117.50</YourPrice>
+    <YourPriceWithFees>1120.00</YourPriceWithFees>
+    <CommodityCode>BEN</CommodityCode>
+    <GarbageFee>2.50</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>24 Měsíc(ů)</Warranty>
+    <CommodityName>BENQ</CommodityName>
+    <DealerPrice>1117.00</DealerPrice>
+    <EndUserPrice>1314.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>PR10311</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Reflecta</ProducerName>
+    <RateOfDutyCode>84718000</RateOfDutyCode>
+    <EANCode>4000567103117</EANCode>
+    <NameB2C>Reflecta LightPad L130 LED prosvětlovací panel</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Prosvětlovací panel s 5000K LED technologií, prosvětlovací plocha 12,5x10cm, provoz na 6x1,5V AAA baterie nebo síťový zdroj AC/DC 9V/1A (není součástí dodávky), životnost LED 10.000h. Rozměry 15,5x15x1,4cm, hmotnost 260g.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>000102130006</IndexSort1>
+    <IndexCode1>9076</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2 />
+    <IndexCode2>-1</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>24</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1117.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>1</ImgCount>
+    <ImgLastChanged>2022-11-10T16:26:15.767</ImgLastChanged>
+    <ProducerCode>REF</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1642/1642995_0a_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1643000</ProId>
+    <Code>429380</Code>
+    <Name>Reflecta LightPad A5 LED prosvětlovací panel</Name>
+    <YourPrice>1609.50</YourPrice>
+    <YourPriceWithFees>1612.00</YourPriceWithFees>
+    <CommodityCode>BEN</CommodityCode>
+    <GarbageFee>2.50</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>24 Měsíc(ů)</Warranty>
+    <CommodityName>BENQ</CommodityName>
+    <DealerPrice>1609.00</DealerPrice>
+    <EndUserPrice>1893.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>PR10318</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Reflecta</ProducerName>
+    <RateOfDutyCode>84718000</RateOfDutyCode>
+    <EANCode>4000567103186</EANCode>
+    <NameB2C>Reflecta LightPad A5 LED prosvětlovací panel</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Prosvětlovací panel s moderní SuperSlim LED technologií, prosvětlovací plocha 19x14cm s měřítkem v cm na okraji plochy, plynulá regulace výkonu, dotykové ovládání, síťový zdroj AC/DC 12V/4,3W - 3,5mm Jack, životnost LED 50.000h. Rozměry 23,9x18,9x0,8cm, hmotnost 400g.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>000102130006</IndexSort1>
+    <IndexCode1>9076</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2 />
+    <IndexCode2>-1</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>24</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>1609.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>3</ImgCount>
+    <ImgLastChanged>2022-11-10T17:42:24.493</ImgLastChanged>
+    <ProducerCode>REF</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643000_0a_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643000_0b_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643000_0c_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1643001</ProId>
+    <Code>429381</Code>
+    <Name>Reflecta LightPad A4+ LED prosvětlovací panel</Name>
+    <YourPrice>2283.50</YourPrice>
+    <YourPriceWithFees>2286.00</YourPriceWithFees>
+    <CommodityCode>BEN</CommodityCode>
+    <GarbageFee>2.50</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>24 Měsíc(ů)</Warranty>
+    <CommodityName>BENQ</CommodityName>
+    <DealerPrice>2283.00</DealerPrice>
+    <EndUserPrice>2686.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>PR10320</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Reflecta</ProducerName>
+    <RateOfDutyCode>84718000</RateOfDutyCode>
+    <EANCode>4000567103209</EANCode>
+    <NameB2C>Reflecta LightPad A4+ LED prosvětlovací panel</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Prosvětlovací panel s UltraSlim LED technologií, prosvětlovací plocha 31x21cm s měřítkem v cm, plynulá regulace výkonu, 3000/ 5000/ 8000K, CRI vyšší než 90, dotykové ovládání, síťový zdroj 5V/2A/10W - micro USB, životnost LED 50.000h. Rozměry 37,1x27,8x0,8cm, hmotnost 640g.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>000102130006</IndexSort1>
+    <IndexCode1>9076</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2 />
+    <IndexCode2>-1</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>24</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2283.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>3</ImgCount>
+    <ImgLastChanged>2022-11-10T17:51:16.493</ImgLastChanged>
+    <ProducerCode>REF</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643001_0a_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643001_0b_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643001_0c_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+  <ProductComplete>
+    <ProId>1643002</ProId>
+    <Code>429382</Code>
+    <Name>Reflecta LightPad A3 LED prosvětlovací panel</Name>
+    <YourPrice>2803.50</YourPrice>
+    <YourPriceWithFees>2806.00</YourPriceWithFees>
+    <CommodityCode>BEN</CommodityCode>
+    <GarbageFee>2.50</GarbageFee>
+    <AuthorFee>0.00</AuthorFee>
+    <ValuePack>0.000000</ValuePack>
+    <ValuePackQty>0.000</ValuePackQty>
+    <Warranty>24 Měsíc(ů)</Warranty>
+    <CommodityName>BENQ</CommodityName>
+    <DealerPrice>2803.00</DealerPrice>
+    <EndUserPrice>3298.00</EndUserPrice>
+    <Vat>21.00</Vat>
+    <PartNumber>PR10319</PartNumber>
+    <OnStock>false</OnStock>
+    <OnStockText>0,00</OnStockText>
+    <Status>Novinka</Status>
+    <ProducerName>Reflecta</ProducerName>
+    <RateOfDutyCode>84718000</RateOfDutyCode>
+    <EANCode>4000567103193</EANCode>
+    <NameB2C>Reflecta LightPad A3 LED prosvětlovací panel</NameB2C>
+    <DescriptionShort>Typ příslušenství:Ostatní</DescriptionShort>
+    <MultipleQuantity>1</MultipleQuantity>
+    <Description>Prosvětlovací panel s moderní SuperSlim LED technologií, prosvětlovací plocha 19x14cm s měřítkem v cm na okraji plochy, plynulá regulace výkonu, dotykové ovládání, síťový zdroj AC/DC 12V/4,3W - 3,5mm Jack, životnost LED 50.000h. Rozměry 23,9x18,9x0,8cm, hmotnost 400g.</Description>
+    <IsTop>false</IsTop>
+    <InfoCode>1</InfoCode>
+    <IndexSort1>000102130006</IndexSort1>
+    <IndexCode1>9076</IndexCode1>
+    <IndexOrder1>-1</IndexOrder1>
+    <IndexImplicit1>true</IndexImplicit1>
+    <IndexSort2 />
+    <IndexCode2>-1</IndexCode2>
+    <IndexOrder2>-1</IndexOrder2>
+    <IndexImplicit2>true</IndexImplicit2>
+    <WarrantyTerm>24</WarrantyTerm>
+    <WarrantyUnit>Měsíc(ů)</WarrantyUnit>
+    <PartNumber2 />
+    <DateAvailible>0001-01-01T00:00:00</DateAvailible>
+    <DealerPrice1>2803.00</DealerPrice1>
+    <Unit>KS</Unit>
+    <OnStockCount>0.00</OnStockCount>
+    <ImgCount>3</ImgCount>
+    <ImgLastChanged>2022-11-10T17:52:59.987</ImgLastChanged>
+    <ProducerCode>REF</ProducerCode>
+    <CategoryCode>77</CategoryCode>
+    <B2C>true</B2C>
+    <B2FPrice>0</B2FPrice>
+    <ImageList>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643002_0a_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643002_0b_3.jpg</URL>
+      </ProductImage>
+      <ProductImage>
+        <URL>https://c.edsystem.cz/IMGCACHE/_1643/1643002_0c_3.jpg</URL>
+      </ProductImage>
+    </ImageList>
+    <ProductNavigatorDataList>
+      <ProductNavigatorData>
+        <AttributeCode>128</AttributeCode>
+        <ValueCode>591</ValueCode>
+      </ProductNavigatorData>
+    </ProductNavigatorDataList>
+    <LogisticDataList>
+      <ProductLogisticData>
+        <typ>JEDN</typ>
+        <count>1</count>
+        <weight>0</weight>
+        <length>0</length>
+        <width>0</width>
+        <height>0</height>
+      </ProductLogisticData>
+    </LogisticDataList>
+    <RCStatus>N</RCStatus>
+    <RCCode />
+    <IsPremium>false</IsPremium>
+    <ExtInfoCodes />
+  </ProductComplete>
+</ArrayOfProductComplete>
