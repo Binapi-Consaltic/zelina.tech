@@ -4,6 +4,12 @@ session_start();
 require_once("../../setup/connect.php");
 
 
+if(!empty($_SESSION["shopping_cart"])){
+    if(isset($_POST["app_item_delete"])){
+        session_destroy();
+    }
+}
+
 ?>
 <!DOCTYPE html>
 <html lang="cs">
@@ -194,7 +200,7 @@ if(isset($_POST["view_cart"])){
         <div class="app_succes_error">
             <p>Platba byla úspěšne provedena. Faktura Vám bude zaslana na Vaš registrovaný e-mail.</p>
             <form action="../../default.php" method="post">
-                <button type="submit" name="header_main">Zpět na titulní stranu</button>
+                <button type="submit" name="app_item_delete">Zpět na titulní stranu</button>
             </form>
         </div>
     </main>
