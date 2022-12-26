@@ -11,10 +11,13 @@ if(isset($_GET["id"])){
 if(isset($_SESSION["shopping_cart"])){
     $price = null;
     foreach($_SESSION["shopping_cart"] as $key => $item){
-
+        global $price;
         $price += $item["totalPrice"];
     }
 }
+
+$sumPrice = $price + 199;
+echo $totalPrice = $sumPrice * 1.21;
 
 if(isset($_POST["app_item_delete"])){
     session_destroy();
