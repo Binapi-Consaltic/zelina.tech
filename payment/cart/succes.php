@@ -4,7 +4,6 @@ session_start();
 require_once("../../setup/connect.php");
 
 
-
 ?>
 <!DOCTYPE html>
 <html lang="cs">
@@ -193,7 +192,10 @@ if(isset($_POST["view_cart"])){
     </header>
     <main>
         <div class="app_succes_error">
-            <p>ERROR: Omlováme se, ale platba selhala. Skuste to prosím později nebo vyberte jinou <a href="../../default.php"> platební metodu</a>.</p>
+            <p>Platba byla úspěšne provedena. Faktura Vám bude zaslana na Vaš registrovaný e-mail.</p>
+            <form action="../../default.php" method="post">
+                <button type="submit" name="header_main">Zpět na titulní stranu</button>
+            </form>
         </div>
     </main>
 </body>

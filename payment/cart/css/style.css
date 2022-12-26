@@ -11610,15 +11610,20 @@ tfoot tr{
 /* succes.php */
 
 .app_succes_error{
-  border: 1px solid var(--bs-danger);
+  border: 1px solid transparent;
   padding: 1%;
-  background-color: var(--bs-danger);
+  background-color: rgb(116,200,87);
   text-align: center;
   color: #fff;
   font-size: 1.5rem !important;
+  outline: none;
 }
 
-.app_succes_error a{
+.app_succes_error button{
   color: #fff;
-  
+  background-color: var(--bs-button-ed);
+  outline: none;
+  border: transparent;
+  border-radius: 15px;
+  padding: 10px 15px;
 }
