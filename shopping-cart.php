@@ -15,7 +15,7 @@ app_shopping_cart_delete();
 if(isset($_POST["send_order"])){
 
 
-     $bussinesName = $_POST['bussinesName'];
+    $bussinesName = $_POST['bussinesName'];
     $ic = $_POST['bussinesICO'];
     $userOrder = $_POST['user_order_number'];
     $name = $_POST['name'];
@@ -70,7 +70,7 @@ if(isset($_POST["send_order"])){
         $orderr = date("y")."00" . $row_a[0];
     }
 
-    $query = "INSERT INTO user_order(bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time) VALUES('$bussinesName','$ic','$userOrder','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','$transport_price','$bussinesPay','','$date','$time')";
+    $query = "INSERT INTO user_order(bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time) VALUES('$bussinesName','$ic','$userOrder','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','199','$bussinesPay','','$date','$time')";
 
     $res = mysqli_query($connection, $query);
     
@@ -80,7 +80,20 @@ if(isset($_POST["send_order"])){
         echo "error";
     }
 
-    header("Location: shrnuti.php?number_order=".$orderr);
+    $proid = $_POST["id"];
+    $title = $_POST["title"];
+    $quantity = $_POST["quantity"];
+    $totalPrice = $_POST["totalPrice"];
+
+    $res_item = mysqli_query($connection, "INSERT INTO item_order(number_order, proid, nazev_produktu, počet_ks, celkova_cena,)VALUES('$orderr','$proid','$title','$quantity','$totalPrice')");
+
+    if ($res_item) {
+        echo "";
+    } else {
+        echo "error";
+    }
+
+    // header("Location: shrnuti.php?number_order=".$orderr);
 }
 
 ?>
@@ -281,6 +294,18 @@ if(isset($_POST["send_order"])){
                             </div>
                         </div>
                     </div>
+                    <?php 
+                     if(isset($_SESSION["shopping_cart"])){
+                        foreach($_SESSION["shopping_cart"] as $key => $item){
+                    ?>
+                    <input type="hidden" name="id" value='<?php echo $item["id"]; ?>'>
+                    <input type="hidden" name="title" value='<?php echo $item["title"]; ?>'>
+                    <input type="hidden" name="quantity" value='<?php echo $item["quantity"]; ?>'>
+                    <input type="hidden" name="totalPrice" value='<?php echo $item["totalPrice"]; ?>'>
+                    <?php
+                        }
+                     }
+                     ?>
                 </form>
             </container>
         </section>
