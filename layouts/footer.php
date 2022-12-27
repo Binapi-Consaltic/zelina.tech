@@ -37,7 +37,7 @@
                         <li><a href="">Obchodní podmínky</a></li>
                         <li><a href="">Zpracování osobních údajů</a></li>
                         <li><a href="">Profil společnosti</a></li>
-                        <li><a href="">Kontak</a></li>
+                        <li><a href="layouts/layouts-footer">Kontak</a></li>
                         <li><a href="">Kariéra</a></li>
                     </ul>
                 </div>
