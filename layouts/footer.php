@@ -34,7 +34,7 @@
                 <div class="col-sm-4">
                     <h2>O nás</h2>
                     <ul class="footer-ul">
-                        <li><a href="">Obchodní podmínky</a></li>
+                        <li><a href="../layouts/layouts-footer/podminky.php">Obchodní podmínky</a></li>
                         <li><a href="">Zpracování osobních údajů</a></li>
                         <li><a href="">Profil společnosti</a></li>
                         <li><a href="../layouts/layouts-footer/kontakt.php">Kontak</a></li>
