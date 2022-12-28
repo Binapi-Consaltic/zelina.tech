@@ -31,6 +31,8 @@ if($payment === "Bankovní převod"){
     header('Location: payment/cart/cart.php');
 }elseif($payment === "Dobírka"){
     header("location: sucess.php");
+}elseif($payment === "DPD B2C dobírka"){
+    header("location: sucess.php");
 }
 
 ?>
