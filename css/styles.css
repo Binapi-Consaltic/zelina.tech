@@ -11612,21 +11612,12 @@ tfoot tr{
     /* display: block; */
   }
 
-  .navbar-nav{
-    display: block !important;
-  }
-
-  .nav-item{
-    display: block;
-    width: 100%;
-  }
-
-  .shopping-cart{
+  .navbar{
     display: none;
   }
 
-  .swiper{
-    width: 100%;
+  .app_nav_bar_set{
+    display: flex;
   }
 }
 
