@@ -59,7 +59,7 @@ if(isset($_POST["send_order"])){
     $row_a = mysqli_fetch_row($res_a);
 
     //echo $row_a[0];
-
+    global $orderr;
     $orderr = date("y")."0000" . $row_a[0];
 
     if($row_a[0] < 10) {
@@ -85,7 +85,7 @@ if(isset($_POST["send_order"])){
     $quantity = $_POST["quantity"];
     $totalPrice = $_POST["totalPrice"];
 
-    $res_item = mysqli_query($connection, "INSERT INTO item_order(number_order, proid, nazev_produktu, počet_ks, celkova_cena,)VALUES('$orderr','$proid','$title','$quantity','$totalPrice')");
+    $res_item = mysqli_query($connection, "INSERT INTO item_order(number_order, proid, nazev_produktu, počet_ks, celkova_cena)VALUES('$orderr','$proid','$title','$quantity','$totalPrice')");
 
     if ($res_item) {
         echo "";
@@ -93,7 +93,7 @@ if(isset($_POST["send_order"])){
         echo "error";
     }
 
-    // header("Location: shrnuti.php?number_order=".$orderr);
+    header("Location: shrnuti.php?number_order=".$orderr);
 }
 
 ?>
