@@ -86,6 +86,28 @@ app_shopping_cart_add($id);
     <script src="js/lightbox-plus-jquery.min.js"></script>
     <title><?php echo "Detail produktu"; ?> | <?php echo $bussinessName; ?></title>
 </head>
+<style>
+    @media only screen and (min-width: 0px) and (max-width: 730px){
+        main{
+            width: 98%;
+            margin: 0 auto;
+        }
+        .app_item_image img{
+            width: 98%;
+            margin-top: 3%;
+        }
+
+        .app_item_price_header,
+        .item_value{
+            text-align: center;
+        }
+
+        .app_item_stock{
+            display: flex;
+            justify-content: center;
+        }
+    }
+</style>
 <body>
     <header>
         <?php require_once("layouts/nav-menu.php");?>
