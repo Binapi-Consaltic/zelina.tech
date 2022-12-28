@@ -341,13 +341,13 @@ if(isset($_POST["view_cart"])){
 <nav class="app_nav_menu_set app_hidden">
     <div class="app_nav_menu_subset">
         <ul>
-            <li><a href="#">PC a Notebooky</a></li>
-            <li><a href="#">Multifunkce a tiskárny</a></li>
-            <li><a href="#">Periferie</a></li>
-            <li><a href="#">Komponenty</a></li>
-            <li><a href="#">Servery a zálohování</a></li>
-            <li><a href="">Software</a></li>
-            <li><a href="">Mobily a telefony</a></li>
+            <li><a href="view_category.php?action=115">PC a Notebooky</a></li>
+            <li><a href="view_category.php?action=66">Multifunkce a tiskárny</a></li>
+            <li><a href="view_category.php?action=50">Periferie</a></li>
+            <!-- <li><a href="">Komponenty</a></li>
+            <li><a href="">Servery a zálohování</a></li>
+            <li><a href="">Software</a></li> -->
+            <li><a href="view_category.php?action=107">Mobily a telefony</a></li>
         </ul>
     </div>
 </nav>
