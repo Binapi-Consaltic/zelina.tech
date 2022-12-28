@@ -1,6 +1,6 @@
 <?php
 
-$db_conn = mysqli_connect("localhost", "root", "", "codeat21");
+$db_conn = mysqli_connect("localhost", "root", "", "cc-eshop");
 // Check connection
 if($db_conn === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());

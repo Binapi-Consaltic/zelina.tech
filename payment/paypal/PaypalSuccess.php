@@ -1,5 +1,22 @@
 <?php 
-include_once 'db_connection.php'; 
+
+session_start();
+include_once 'db_connection.php';
+
+if(isset($_POST["return"])){
+  echo "ano";
+  if(isset($_POST["return"])){
+    unset($_SESSION["shopping_cart"][$_POST["return"]]);
+    header("Location: ../../default.php");
+}
+}
+
+if(empty($_SESSION["shopping_cart"])){
+  echo "ano";
+}else{
+  echo "ne";
+}
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -28,6 +45,11 @@ include_once 'db_connection.php';
       <p>Product id: <?php echo $row['product_id']; ?></p>
       <p>Product Name: <?php echo $row['product_name']; ?></p>
     </div>
+  </div>
+  <div class="">
+    <form action="" method="post">
+      <input type="submit" value="Zpět na titulní stranu" name="return">
+    </form>
   </div>
 </body>
 </html>

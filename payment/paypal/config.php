@@ -22,7 +22,7 @@ $dbConfig = [
     'host' => 'localhost',
     'username' => 'root',
     'password' => '',
-    'name' => 'codeat21'
+    'name' => 'cc-eshop'
 ];
 
 $apiContext = getApiContext($paypalConfig['client_id'], $paypalConfig['client_secret'], $enableSandbox);
