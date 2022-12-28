@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-require_once("../../setup/connect.php");
+require_once("setup/connect.php");
 
 
 if(!empty($_SESSION["shopping_cart"])){
@@ -23,7 +23,7 @@ if(!empty($_SESSION["shopping_cart"])){
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
     <title>Potvrzení platby | <?php echo $bussinessName; ?></title>
 </head>
 <body>
@@ -194,12 +194,12 @@ if(isset($_POST["view_cart"])){
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="../../js/scripts.js"></script>
+        <script src="js/scripts.js"></script>
     </header>
     <main>
         <div class="app_succes_error">
             <p>Děkujeme, platba byla úspěšne provedena. Faktura Vám bude zaslana na Vaš registrovaný e-mail.</p>
-            <form action="../../default.php" method="post">
+            <form action="default.php" method="post">
                 <button type="submit" name="app_item_delete">Zpět na titulní stranu</button>
             </form>
         </div>
