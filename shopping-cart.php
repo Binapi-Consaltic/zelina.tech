@@ -70,7 +70,7 @@ if(isset($_POST["send_order"])){
         $orderr = date("y")."00" . $row_a[0];
     }
 
-    $query = "INSERT INTO user_order(bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time) VALUES('$bussinesName','$ic','$userOrder','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','199','$bussinesPay','','$date','$time')";
+    $query = "INSERT INTO user_order(bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time)VALUES('$bussinesName','$ic','$orderr','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','199','$bussinesPay','','$date','$time')";
 
     $res = mysqli_query($connection, $query);
     
