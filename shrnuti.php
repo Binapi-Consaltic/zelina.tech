@@ -29,6 +29,8 @@ if($payment === "Bankovní převod"){
     header("Location: payment/paypal/index.php");
 }elseif($payment === "Kreditní karta"){
     header('Location: payment/cart/cart.php');
+}elseif($payment === "Stripe"){
+    header('Location: payment/stripe/index.php');
 }
 
 ?>
