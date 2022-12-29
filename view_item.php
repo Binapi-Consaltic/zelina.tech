@@ -136,7 +136,7 @@ app_shopping_cart_add($id);
                             <div class="app_item_fees">
                                 <div class="row">
                                     <span class="col-sm-6">
-                                        <p>Cena bez DPH:</p>
+                                        <p>Cena s DPH:</p>
                                     </span>
                                     <span class="col-sm-6">
                                         <p class="item_value"><?php echo number_format($price,2,",","."); ?> Kč</p>
