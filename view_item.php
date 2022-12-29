@@ -20,7 +20,7 @@ while($row = mysqli_fetch_array($imageData)){
     $title = $row["name"];
     $descriptionShort = $row["descriptionshort"];
     $description = $row["description"];
-    $price = $row["enduserprice"];
+    $price = $row["enduserprice"] * 1.21;
     $fess = $row["yourpricewithfees"] - $row["yourprice"];
     $priceDPH = $row["yourprice"];
     $partNumber = $row["partnumber"];
@@ -130,7 +130,7 @@ app_shopping_cart_add($id);
                     <div class="row">
                         <div class="col-sm-6 app_item_price_header">
                             <span class="app_item_price">
-                                <h5>Vaše cena bez DPH:</h5>
+                                <h5>Vaše cena s DPH:</h5>
                                 <p><?php echo number_format($price,0,",","."); ?> Kč</p>
                             </span>
                             <div class="app_item_fees">
