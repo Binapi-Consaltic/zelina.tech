@@ -217,7 +217,7 @@ $sql_query = ____app_sql_query("
                         "id" => $row["proid"],	
                         "title" => substr($row["name"],0,50)."...",
                         "quantity" => $row["onstocktext"]." Ks",
-                        "price" => number_format($row["yourprice"],2,".",",")." Kč",
+                        "price" => number_format($row["enduserprice"],2,".",",")." Kč",
                         );
         
                         $data = $row["imagelist"];
