@@ -168,9 +168,9 @@ app_shopping_cart_add($id);
                                     <span class="col-sm-6 ">
                                         <?php 
                                             if($onstock == "false"){
-                                                echo "1";
+                                                echo "Skladem";
                                             }else{
-                                                echo $onStock;
+                                                echo "Skladem";
                                             }
                                             ?>
                                     </span>
