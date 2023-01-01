@@ -30,7 +30,7 @@ if(isset($_POST["send_order"])){
     $state = $_POST["state"];
     $phone = $_POST["phone"];
     $email = $_POST["email"];
-    $date = date("d/m/y");
+    $date = date("y/m/d");
     $time = date("h : i a");
     $user_id = $_SESSION["id"];
 
