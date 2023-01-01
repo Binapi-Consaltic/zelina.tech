@@ -90,7 +90,7 @@ if(isset($_POST["send_order"])){
     $quantity = $_POST["quantity"];
     $totalPrice = $_POST["totalPrice"];
 
-    $res_item = mysqli_query($connection, "INSERT INTO item_order(number_order, proid, nazev_produktu, počet_ks, celkova_cena)VALUES('$orderr','$proid','$title','$quantity','$totalPrice')");
+    $res_item = mysqli_query($connection, "INSERT INTO item_order(user_id,number_order, proid, nazev_produktu, počet_ks, celkova_cena)VALUES('$user_id','$orderr','$proid','$title','$quantity','$totalPrice')");
 
     if ($res_item) {
         echo "";
