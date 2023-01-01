@@ -209,7 +209,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                 
                 ?>
                 <tr>
-                    <td><a href=""><?php echo $item["user_order_number"]; ?></a></td>
+                    <td><a href="view_orderr.php?id=<?php echo $item["user_order_number"]; ?>"><?php echo $item["user_order_number"]; ?></a></td>
                     <td><?php echo $item["date"]; ?></td>
                     <td><?php echo $item["transport"]; ?></td>
                     <td><?php echo "Vyřízena"; ?></td>
