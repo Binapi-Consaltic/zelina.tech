@@ -3,6 +3,11 @@
 session_start();
 require_once("setup/connect.php");
 
+if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
+    header("location: login.php");
+    exit;
+}
+
 function ____app_sql_query($data) {
     return $data;
     }
