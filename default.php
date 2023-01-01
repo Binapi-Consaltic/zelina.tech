@@ -6,7 +6,7 @@ require_once("setup/connect.php");
 echo '<a href="authentication/welcome.php">Můj účet</a>';
 
 if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
-    header("location: login.php");
+    header("location: authentication/login.php");
     exit;
 }
 
