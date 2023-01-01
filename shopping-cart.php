@@ -14,6 +14,10 @@ app_shopping_cart_delete();
 
 if(isset($_POST["send_order"])){
 
+    if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
+        header("location: login.php");
+        exit;
+    }
 
     $bussinesName = $_POST['bussinesName'];
     $ic = $_POST['bussinesICO'];
@@ -28,6 +32,7 @@ if(isset($_POST["send_order"])){
     $email = $_POST["email"];
     $date = date("d/m/y");
     $time = date("h : i a");
+    $user_id = $_SESSION["id"];
 
     if(isset($_POST["select_transport"])){
         $transportCode = $_POST["select_transport"];
@@ -70,7 +75,7 @@ if(isset($_POST["send_order"])){
         $orderr = date("y")."00" . $row_a[0];
     }
 
-    $query = "INSERT INTO user_order(bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time)VALUES('$bussinesName','$ic','$orderr','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','199','$bussinesPay','','$date','$time')";
+    $query = "INSERT INTO user_order(user_id,bussine_name, ICO, user_order_number, name, surname, addres, PSC, town, state, phone, email, message, number_order, transport, transport_price, payment_bussines, payment_method, date, time)VALUES('$user_id','$bussinesName','$ic','$orderr','$name','$surname','$street','$psc','$town','$state','$phone','$email','$user_note','$orderr','$transportCode','199','$bussinesPay','','$date','$time')";
 
     $res = mysqli_query($connection, $query);
     
