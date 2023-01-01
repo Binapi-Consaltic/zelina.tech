@@ -15,7 +15,7 @@ app_shopping_cart_delete();
 if(isset($_POST["send_order"])){
 
     if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
-        header("location: login.php");
+        header("location: authentication/login.php");
         exit;
     }
 
