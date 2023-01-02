@@ -27,7 +27,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <link href="css/dashboard.css" rel="stylesheet">
     <link href="css/dashboard.rtl.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/dist/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="css/user-style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -106,9 +109,9 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
       <div class="position-sticky pt-3 sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="../default.php">
+            <a class="nav-link active" aria-current="page" href="authentication/welcome.php">
               <span data-feather="home" class="align-text-bottom"></span>
-              Moje nákupy
+              Moje Oóbjednávky
             </a>
           </li>
           <li class="nav-item">
@@ -213,6 +216,13 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                     <td><?php echo $item["date"]; ?></td>
                     <td><?php echo $item["transport"]; ?></td>
                     <td><?php echo "Vyřízena"; ?></td>
+                    <td id="drop_down">
+                        <button class="view_button"><span class="glyphicon glyphicon-chevron-down"></span></button>
+                        <ul class="hidden" id="hidden">
+                            <li><a class="odkaz" href="#">Reklamovat</a></li>
+                            <li><a  class="odkaz" href="#">Vrátit</a></li>
+                        </ul>
+                    </td>
                 </tr>
                 <?php
               }
@@ -230,3 +240,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
       <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
   </body>
 </html>
+<script>
+    var d = document;
+    var view_item = d.getElementById("drop_down");
+
+
+    view_item.addEventListener("click", function() {
+        d.querySelector(".hidden").classList.toggle("hidden");
+    });
+</script>

@@ -1,0 +1,24 @@
+.hidden {
+    display: none;
+}
+
+#hidden {
+    position: absolute;
+    right: 2.5%;
+    top: 19.5%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    list-style-type: none;
+    width: 113px;
+    padding: 10px;
+    z-index: 1000;
+    background-color: #fff
+}
+
+.odkaz {
+    color: black;
+}
+
+.odkaz:hover {
+    text-decoration: none;
+}
