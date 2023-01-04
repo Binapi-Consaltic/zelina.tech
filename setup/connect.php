@@ -12,7 +12,7 @@ $localhost_list = array(
 if(!in_array($_SERVER["REMOTE_ADDR"], $localhost_list)){
     define("db_server", "localhost");
     define("db_user_name", "u203272543_u203272543");
-    define("db_password", "Zelio_6236");
+    define("db_password", "fotoatalierzelinaZelio_6236");
     define("db_name", "u203272543_eshop");
 }else{
     define("db_server", "localhost");
